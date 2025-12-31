@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cryptography Virtual Lab - Production-Ready Platform
 
 A comprehensive, secure, and scalable web-based educational platform for teaching cryptographic algorithms through interactive simulations and hands-on exercises.
@@ -366,3 +367,7 @@ For support and questions:
 ---
 
 **Built with ❤️ for cryptography education**
+=======
+# Virtual-Lab
+Cryptography Virtual Lab - Production-Ready Platform A comprehensive, secure, and scalable web-based educational platform for teaching cryptographic algorithms through interactive simulations and hands-on exercises.
+>>>>>>> 51e1b48ebed5b8145869cae13d5c84a5cd102248
